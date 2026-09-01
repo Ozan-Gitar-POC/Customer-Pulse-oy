@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+*.db
+.venv/
+dist/
+coverage/
+.coverage
+coverage.xml
+*.lcov
+.claude/demo-logs/
+.DS_Store
